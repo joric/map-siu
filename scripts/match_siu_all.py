@@ -23,12 +23,15 @@ for filename in glob.glob('data_sets/DLC2_*.csv'):
 
             id = area +':'+o['object_name']
 
-            d['x'] = o['location_x']
-            d['y'] = o['location_y']
-            d['z'] = o['location_z']
-            d['item'] = '%s:%s:%s' % (id, o['spawns'], o['spawncount'])
+            x,y,z = o['location_x'],o['location_y'],o['location_z']
+
+            d['x'] = x
+            d['y'] = y
+            d['z'] = z
+
+            d['item'] = '%s (%s pcs)' % (o['spawns'], o['spawncount'])
             d['id'] = id
-            d['comment'] = id
+            d['comment'] = '%s (%s,%s,%s)' % (id, x,y,z)
             w.writerow(d)
 
 
