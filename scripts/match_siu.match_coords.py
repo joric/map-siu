@@ -7,7 +7,7 @@ lookup = {}
 # misses by far (i get like 100 chests off)
 
 def trim(x):
-    d = 1000 # round to nearest d
+    d = 250 # round to nearest d
     return round(x/d)*d
 
 def get_key(x,y):
@@ -41,7 +41,7 @@ for o in c:
 
     if init:
         init = False
-        w = csv.DictWriter(open('chests.matched.csv', 'w'), o.keys())
+        w = csv.DictWriter(open('chests.csv', 'w'), o.keys())
         w.writeheader()
 
     w.writerow(o)
