@@ -12,7 +12,7 @@ w.writeheader()
 import glob
 chests = 0
 
-# if you load just DLC2_Complete you get only 127 chests, so I load every csv
+# if you load just DLC2_Complete you get only 127 chests of 142, so I load every csv
 # note the whole DLC2_SecretLavaArea sector coordinates are off, don't know how to fix
 
 #for filename in glob.glob('data_sets/DLC2_Complete.csv'):
@@ -20,8 +20,7 @@ for filename in glob.glob('data_sets/DLC2_*.csv'):
     c = csv.DictReader(open(filename))
     area = filename.split('\\').pop().split('.')[0]
     for o in c:
-        #if 'chest' in o['object_class'].lower(): # only 146 Chest_C, let's use name
-        if 'chest' in o['object_name'].lower():
+        if 'chest' in o['object_class'].lower():
             chests += 1
             d = item.copy()
 

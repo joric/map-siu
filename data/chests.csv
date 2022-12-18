@@ -1,6 +1,5 @@
 type,icon,x,y,z,item,price,comment,image,ytVideo,ytStart,ytEnd,id
 coin,chest_coin,621,-34105,-435.1123,BuyTranslocator_Fake_C (1 pcs),1,"DLC2_Area0:Chest2_2 (621,-34105,-435.1123)",,,,,DLC2_Area0:Chest2_2
-coin,chest_coin,60293.55,-6934.241,4047.035, ( pcs),1,"DLC2_Complete:PipeDetectorChestSpawnLocation (60293.55,-6934.241,4047.035)",,,,,DLC2_Complete:PipeDetectorChestSpawnLocation
 coin,chest_coin,63629.32,-10381.96,595.3312, ( pcs),1,"DLC2_Complete:BP_Building3_ChestDialogue_2 (63629.32,-10381.96,595.3312)",,,,,DLC2_Complete:BP_Building3_ChestDialogue_2
 coin,chest_coin,17196.81,-9945.647,3408.572, ( pcs),1,"DLC2_Complete:BP_MonsterChest2_2 (17196.81,-9945.647,3408.572)",,,,,DLC2_Complete:BP_MonsterChest2_2
 coin,chest_coin,43832.58,-48014.71,251.3514, ( pcs),1,"DLC2_Complete:BP_MonsterChest3_2 (43832.58,-48014.71,251.3514)",,,,,DLC2_Complete:BP_MonsterChest3_2
