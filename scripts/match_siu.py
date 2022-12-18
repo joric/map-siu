@@ -1,7 +1,11 @@
 import csv
 
-c = csv.DictReader(open('../data/DLC2_Complete.csv'))
+# this script overwrites all the chest data (youtube, etc. is nullified)
+
+c = csv.DictReader(open('DLC2_Complete.csv'))
+
 f = open('../data/chests.csv', 'w')
+
 item = {'type':'coin','icon':'chest_coin','id':'','x':0,'y':0,'z':0,'item':1,'price':1,'comment':'','image':'','ytVideo':'','ytStart':'','ytEnd':''}
 w = csv.DictWriter(f,item.keys())
 w.writeheader()
