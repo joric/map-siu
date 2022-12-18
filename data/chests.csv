@@ -1,11 +1,8 @@
 type,icon,x,y,z,item,price,comment,image,ytVideo,ytStart,ytEnd,id
 coin,chest_coin,621,-34105,-435.1123,BuyTranslocator_Fake_C (1 pcs),1,"DLC2_Area0:Chest2_2 (621,-34105,-435.1123)",,,,,DLC2_Area0:Chest2_2
-coin,chest_coin,63629.32,-10381.96,595.3312, ( pcs),1,"DLC2_Complete:BP_Building3_ChestDialogue_2 (63629.32,-10381.96,595.3312)",,,,,DLC2_Complete:BP_Building3_ChestDialogue_2
 coin,chest_coin,17196.81,-9945.647,3408.572, ( pcs),1,"DLC2_Complete:BP_MonsterChest2_2 (17196.81,-9945.647,3408.572)",,,,,DLC2_Complete:BP_MonsterChest2_2
 coin,chest_coin,43832.58,-48014.71,251.3514, ( pcs),1,"DLC2_Complete:BP_MonsterChest3_2 (43832.58,-48014.71,251.3514)",,,,,DLC2_Complete:BP_MonsterChest3_2
 coin,chest_coin,3219,-42638,2383.774, ( pcs),1,"DLC2_Complete:BP_MonsterChest_2 (3219,-42638,2383.774)",,,,,DLC2_Complete:BP_MonsterChest_2
-coin,chest_coin,-114.8413,290.3628,-18.56413, ( pcs),1,"DLC2_Complete:BuyChestDetectorRadius_2 (-114.8413,290.3628,-18.56413)",,,,,DLC2_Complete:BuyChestDetectorRadius_2
-coin,chest_coin,-114.623,290.9221,-18.44171, ( pcs),1,"DLC2_Complete:BuyUpgradeChestNum_2 (-114.623,290.9221,-18.44171)",,,,,DLC2_Complete:BuyUpgradeChestNum_2
 coin,chest_coin,49862.85,-61867.54,3331.969,Coin_C (8 pcs),1,"DLC2_Complete:Chest10_11 (49862.85,-61867.54,3331.969)",,,,,DLC2_Complete:Chest10_11
 coin,chest_coin,-59176.29,722.6304,1250.286,BuyJumpIncrease_C (1 pcs),1,"DLC2_Complete:Chest11_2 (-59176.29,722.6304,1250.286)",,,,,DLC2_Complete:Chest11_2
 coin,chest_coin,43071.55,-47385.15,-601.6109,Coin_C (3 pcs),1,"DLC2_Complete:Chest12_17 (43071.55,-47385.15,-601.6109)",,,,,DLC2_Complete:Chest12_17

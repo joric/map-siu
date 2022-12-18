@@ -20,7 +20,7 @@ for filename in glob.glob('data_sets/DLC2_*.csv'):
     c = csv.DictReader(open(filename))
     area = filename.split('\\').pop().split('.')[0]
     for o in c:
-        if 'chest' in o['object_class'].lower():
+        if o['object_class'].endswith('Chest_C'):
             chests += 1
             d = item.copy()
 
