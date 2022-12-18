@@ -16,7 +16,7 @@ for o in c:
         d['x'] = o['location_x']
         d['y'] = o['location_y']
         d['z'] = o['location_z']
-        d['price'] = o['spawncount']
+        d['item'] = o['spawncount']
         d['id'] = o['object_name']
-        d['comment'] = o['object_name']
+        d['comment'] = '%s:%s:%s' % (o['object_name'], o['spawns'], o['spawncount'])
         w.writerow(d)
