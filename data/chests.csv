@@ -1,148 +1,148 @@
-type,icon,id,x,y,z,item,price,comment,image,ytVideo,ytStart,ytEnd
-coin,chest_coin,Chest2_2,621,-34105,-435.1123,BuyTranslocator_Fake_C (1 pcs),1,Chest2_2,,,,
-coin,chest_coin,PipeDetectorChestSpawnLocation,60293.55,-6934.241,4047.035, ( pcs),1,PipeDetectorChestSpawnLocation,,,,
-coin,chest_coin,BP_Building3_ChestDialogue_2,63629.32,-10381.96,595.3312, ( pcs),1,BP_Building3_ChestDialogue_2,,,,
-coin,chest_coin,BP_MonsterChest2_2,17196.81,-9945.647,3408.572, ( pcs),1,BP_MonsterChest2_2,,,,
-coin,chest_coin,BP_MonsterChest3_2,43832.58,-48014.71,251.3514, ( pcs),1,BP_MonsterChest3_2,,,,
-coin,chest_coin,BP_MonsterChest_2,3219,-42638,2383.774, ( pcs),1,BP_MonsterChest_2,,,,
-coin,chest_coin,BuyChestDetectorRadius_2,-114.8413,290.3628,-18.56413, ( pcs),1,BuyChestDetectorRadius_2,,,,
-coin,chest_coin,BuyUpgradeChestNum_2,-114.623,290.9221,-18.44171, ( pcs),1,BuyUpgradeChestNum_2,,,,
-coin,chest_coin,Chest10_11,49862.85,-61867.54,3331.969,Coin_C (8 pcs),1,Chest10_11,,,,
-coin,chest_coin,Chest11_2,-59176.29,722.6304,1250.286,BuyJumpIncrease_C (1 pcs),1,Chest11_2,,,,
-coin,chest_coin,Chest12_17,43071.55,-47385.15,-601.6109,Coin_C (3 pcs),1,Chest12_17,,,,
-coin,chest_coin,Chest13_20,39951.82,-51068.89,-500.0531,Coin_C (3 pcs),1,Chest13_20,,,,
-coin,chest_coin,Chest14_2,-35361.02,-36825.92,23564.83,BuyJumpIncrease_C (1 pcs),1,Chest14_2,,,,
-coin,chest_coin,Chest15_2,-48437.58,-21617.5,16123.68,Coin_C (1 pcs),1,Chest15_2,,,,
-coin,chest_coin,Chest16,6018.638,-47689.83,1815.21,BuyElectricGun_C (1 pcs),1,Chest16,,,,
-coin,chest_coin,Chest17,2748.828,-46094.84,3283.895,Coin_C (23 pcs),1,Chest17,,,,
-coin,chest_coin,Chest2_2,18744.62,-11487.48,7127.94,Coin_C (5 pcs),1,Chest2_2,,,,
-coin,chest_coin,Chest3_2,41127,-11486,921,BP_BuyBoomerAxe_C (1 pcs),1,Chest3_2,,,,
-coin,chest_coin,Chest4_2,-4894.136,-46992.61,1779.621,Coin_C (10 pcs),1,Chest4_2,,,,
-coin,chest_coin,Chest5_2,50108,-60852,2764.718,BP_DoubleHealthLoot_C (1 pcs),1,Chest5_2,,,,
-coin,chest_coin,Chest6_5,48399.79,-61681.46,906.472,Coin_C (10 pcs),1,Chest6_5,,,,
-coin,chest_coin,Chest7_8,34509,-47940,-472,Coin_C (10 pcs),1,Chest7_8,,,,
-coin,chest_coin,Chest8_5,-49225.31,-29278.21,17556.38,CoinBig_C (1 pcs),1,Chest8_5,,,,
-coin,chest_coin,Chest9_8,44491.25,-46401.67,2059.973,Coin_C (8 pcs),1,Chest9_8,,,,
-coin,chest_coin,Chest_6,16760.28,-33326.79,1350.583,Coin_C (5 pcs),1,Chest_6,,,,
-coin,chest_coin,Chest_GoldBeam,-661.9174,-43441.16,1770,BuyForceBeamGold_C (1 pcs),1,Chest_GoldBeam,,,,
-coin,chest_coin,ChestArea1,27781.27,11080.61,3033.937,Coin_C (3 pcs),1,ChestArea1,,,,
-coin,chest_coin,ChestArea11,-1232.244,-51696.42,2670.432,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea11,,,,
-coin,chest_coin,ChestArea12,5240.756,-49982.95,1837.661,Coin_C (1 pcs),1,ChestArea12,,,,
-coin,chest_coin,ChestArea13,2016.052,-47905.05,1764,Coin_C (20 pcs),1,ChestArea13,,,,
-coin,chest_coin,ChestArea14,5355.951,-51268.65,2664.699,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea14,,,,
-coin,chest_coin,ChestArea15,-2034.762,-46645,3265.882,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea15,,,,
-coin,chest_coin,ChestArea1_0,18115.78,20434.73,4890.31,Coin_C (10 pcs),1,ChestArea1_0,,,,
-coin,chest_coin,ChestArea1_1,24559.96,16827.13,5468.385,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea1_1,,,,
-coin,chest_coin,ChestArea1_10,21157.37,7001.55,3065.948,Coin_C (15 pcs),1,ChestArea1_10,,,,
-coin,chest_coin,ChestArea1_12,10586.74,11461.75,3223.094,Coin_C (3 pcs),1,ChestArea1_12,,,,
-coin,chest_coin,ChestArea1_13,19119.39,4689.746,3106.063,Coin_C (20 pcs),1,ChestArea1_13,,,,
-coin,chest_coin,ChestArea1_14,29876.7,8049.026,3510.515,Coin_C (10 pcs),1,ChestArea1_14,,,,
-coin,chest_coin,ChestArea1_15,13047.48,11365.66,2765.64,Coin_C (2 pcs),1,ChestArea1_15,,,,
-coin,chest_coin,ChestArea1_3,25710.93,6531.553,3107.374,Coin_C (4 pcs),1,ChestArea1_3,,,,
-coin,chest_coin,ChestArea1_4,21921.69,10109.11,3981.875,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea1_4,,,,
-coin,chest_coin,ChestArea1_46,26657.37,8250.876,5473.938,Coin_C (15 pcs),1,ChestArea1_46,,,,
-coin,chest_coin,ChestArea1_5,58129.49,-19654.04,547.0891,BuyCritChance+5_C (1 pcs),1,ChestArea1_5,,,,
-coin,chest_coin,ChestArea1_52,17338.4,-6965.655,6099.735,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea1_52,,,,
-coin,chest_coin,ChestArea1_6,71378.34,-10532.79,3988.557,BuyCritChance+5_C (1 pcs),1,ChestArea1_6,,,,
-coin,chest_coin,ChestArea1_63,35667.55,9156.419,6210.434,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea1_63,,,,
-coin,chest_coin,ChestArea1_69,33715.51,13468.85,3396.803,BP_BuyBoomeraxeThrowSpeed_C (1 pcs),1,ChestArea1_69,,,,
-coin,chest_coin,ChestArea1_7,19971.49,19796.31,3093.311,Coin_C (3 pcs),1,ChestArea1_7,,,,
-coin,chest_coin,ChestArea1_79,27564.93,11198.03,3825.785,Coin_C (5 pcs),1,ChestArea1_79,,,,
-coin,chest_coin,ChestArea1_8,23262.18,9784.935,4240.39,Coin_C (2 pcs),1,ChestArea1_8,,,,
-coin,chest_coin,ChestArea2,63917.7,-11787.98,1552.472,Coin_C (10 pcs),1,ChestArea2,,,,
-coin,chest_coin,ChestArea2_1,56225.04,-10059.07,2077.473,Coin_C (10 pcs),1,ChestArea2_1,,,,
-coin,chest_coin,ChestArea2_11,49992.65,-25915.73,2723.984,BP_DoubleHealthLoot_C (1 pcs),1,ChestArea2_11,,,,
-coin,chest_coin,ChestArea2_16,64329.22,-13131.23,439.3311,Coin_C (9 pcs),1,ChestArea2_16,,,,
-coin,chest_coin,ChestArea2_17,65200.04,-12285.34,1788.437,BuyHealthRegenMax+1_C (1 pcs),1,ChestArea2_17,,,,
-coin,chest_coin,ChestArea2_2,56670.52,-13120.73,1316.859,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea2_2,,,,
-coin,chest_coin,ChestArea2_3,65350.03,-5262.115,8355.688,BuyHealthRegenSpeed_C (1 pcs),1,ChestArea2_3,,,,
-coin,chest_coin,ChestArea2_39,44655.15,-20489.51,431.5622,BP_BuyGunCapacity+3shots_C (1 pcs),1,ChestArea2_39,,,,
-coin,chest_coin,ChestArea2_4,60854.46,-13330.76,480.9561,BP_BuyGunDuration+2s_C (1 pcs),1,ChestArea2_4,,,,
-coin,chest_coin,ChestArea2_5,61325.91,-16146.84,431.8685,Coin_C (10 pcs),1,ChestArea2_5,,,,
-coin,chest_coin,ChestArea2_57,58534.52,-8821.514,533.6049,Coin_C (10 pcs),1,ChestArea2_57,,,,
-coin,chest_coin,ChestArea2_58,54248,-11552,472.565,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea2_58,,,,
-coin,chest_coin,ChestArea2_59,48902,-25058,2714.283,Coin_C (30 pcs),1,ChestArea2_59,,,,
-coin,chest_coin,ChestArea2_6,59699.77,-14887.92,3460.224,Coin_C (20 pcs),1,ChestArea2_6,,,,
-coin,chest_coin,ChestArea2_60,60078.96,-9618.15,3293.176,BP_Purchase_FasterPickaxe_C (1 pcs),1,ChestArea2_60,,,,
-coin,chest_coin,ChestArea2_65,59550.2,-5595.012,2963.66,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea2_65,,,,
-coin,chest_coin,ChestArea2_67,36906.54,-23410.93,5165.915,BP_BuyBoomeraxeThrowSpeed_C (1 pcs),1,ChestArea2_67,,,,
-coin,chest_coin,ChestArea2_68,35279.27,-18218.37,4323.585,Coin_C (10 pcs),1,ChestArea2_68,,,,
-coin,chest_coin,ChestArea2_7,60790.24,-9572.064,432.8234,BuyHealthRegenMax+1_C (1 pcs),1,ChestArea2_7,,,,
-coin,chest_coin,ChestArea2_80,65765,-9639,544.5812,BuyCritChance+5_C (1 pcs),1,ChestArea2_80,,,,
-coin,chest_coin,ChestArea3,2697,-39650,1755.001,BP_BuyBoomeraxePenetration_C (1 pcs),1,ChestArea3,,,,
-coin,chest_coin,ChestArea3_21,8566.479,-35616.77,1769.22,BuyHealthRegenMax+1_C (1 pcs),1,ChestArea3_21,,,,
-coin,chest_coin,ChestArea3_22,-2190.288,-36296.91,3521.27,BuyHealthRegenSpeed_C (1 pcs),1,ChestArea3_22,,,,
-coin,chest_coin,ChestArea3_23,-200.1284,-36520.05,1754.072,BP_BuyBoomeraxeDistance_C (1 pcs),1,ChestArea3_23,,,,
-coin,chest_coin,ChestArea3_25,-2481.362,-37831.97,1755.001,BuyCritChance+5_C (1 pcs),1,ChestArea3_25,,,,
-coin,chest_coin,ChestArea3_26,-147.4906,-40256.01,1777,BP_BuyGunCapacity+3shots_C (1 pcs),1,ChestArea3_26,,,,
-coin,chest_coin,ChestArea3_27,-1181.801,-36611.18,4476.29,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea3_27,,,,
-coin,chest_coin,ChestArea3_44,7113.792,-36158.01,1854.066,Coin_C (20 pcs),1,ChestArea3_44,,,,
-coin,chest_coin,ChestArea3_53,-1796.449,-49097.5,5183.848,Coin_C (15 pcs),1,ChestArea3_53,,,,
-coin,chest_coin,ChestArea3_62,8284.14,-39022.75,1755.001,BP_BuyBoomeraxeThrowSpeed_C (1 pcs),1,ChestArea3_62,,,,
-coin,chest_coin,ChestArea3_70,7526.58,-39912.54,1736,BP_BuyGunDamage+100pct_C (1 pcs),1,ChestArea3_70,,,,
-coin,chest_coin,ChestArea4,42204.97,-63987.88,3214.126,BuyQuintupleJump_C (1 pcs),1,ChestArea4,,,,
-coin,chest_coin,ChestArea4_29,31313.29,-32578.47,3236.865,BP_BuyGunRechargeTime-50pct_C (1 pcs),1,ChestArea4_29,,,,
-coin,chest_coin,ChestArea4_32,38427.82,-47550.02,2214.948,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea4_32,,,,
-coin,chest_coin,ChestArea4_33,38265.48,-47416.8,2483.512,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea4_33,,,,
-coin,chest_coin,ChestArea4_34,46173.52,-47735.12,1991.394,Coin_C (10 pcs),1,ChestArea4_34,,,,
-coin,chest_coin,ChestArea4_35,51443.8,-42255.52,1906.208,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea4_35,,,,
-coin,chest_coin,ChestArea4_36,39644.3,-46289.61,2203.816,Purchase_ForceCube_C (1 pcs),1,ChestArea4_36,,,,
-coin,chest_coin,ChestArea4_37,50307.38,-46995.42,1923.34,Coin_C (20 pcs),1,ChestArea4_37,,,,
-coin,chest_coin,ChestArea4_38,47519.66,-46098.86,1296.394,BuyCritChance+5_C (1 pcs),1,ChestArea4_38,,,,
-coin,chest_coin,ChestArea4_41,39080.25,-41082.29,3784.969,Coin_C (15 pcs),1,ChestArea4_41,,,,
-coin,chest_coin,ChestArea4_45,48658.9,-57554.53,485.3988,BP_BuyGunCapacity+3shots_C (1 pcs),1,ChestArea4_45,,,,
-coin,chest_coin,ChestArea4_48,55088.73,-64008.45,1660.007,BP_BuyGunRechargeTime-50pct_C (1 pcs),1,ChestArea4_48,,,,
-coin,chest_coin,ChestArea4_54,58703.47,-56443.56,2905.642,BP_BuyGunCapacity+3shots_C (1 pcs),1,ChestArea4_54,,,,
-coin,chest_coin,ChestArea4_55,55114.61,-63962.81,4412.156,BP_BuyBoomeraxeDistance_C (1 pcs),1,ChestArea4_55,,,,
-coin,chest_coin,ChestArea4_56,46677.85,-52545.31,423.4111,Coin_C (15 pcs),1,ChestArea4_56,,,,
-coin,chest_coin,ChestArea4_71,56237.21,-50250.6,464.7966,BP_BuyBoomeraxeThrowSpeed_C (1 pcs),1,ChestArea4_71,,,,
-coin,chest_coin,ChestArea4_72,56384.89,-57680.38,3517.944,BuyHealthRegenMax+1_C (1 pcs),1,ChestArea4_72,,,,
-coin,chest_coin,ChestArea4Firegunonly,65468.32,-55833.54,689.5183,BP_BuyFireGunAutoRecharge_C (1 pcs),1,ChestArea4Firegunonly,,,,
-coin,chest_coin,ChestArea5,55007.98,-49058.27,2431.684,BP_PurchaseHealth+1_C (1 pcs),1,ChestArea5,,,,
-coin,chest_coin,ChestAreaEnd2,-59.18332,367.163,-14.77962,BuyChestDetector_C (1 pcs),1,ChestAreaEnd2,,,,
-coin,chest_coin,ChestAreaEnd_73,-60.2886,378.527,-19.9803,BP_BuyGunCapacity+3shots_C (1 pcs),1,ChestAreaEnd_73,,,,
-coin,chest_coin,ChestAreaEnd_74,-37.0434,366.8768,-22.45426,BP_BuyBoomeraxeDistance_C (1 pcs),1,ChestAreaEnd_74,,,,
-coin,chest_coin,ChestAreaEnd_75,-65.29893,375.4448,-6.402412,Coin_C (20 pcs),1,ChestAreaEnd_75,,,,
-coin,chest_coin,ChestAreaEnd_76,-79.03856,392.5527,-15.05961,BP_PurchaseHealth+1_C (1 pcs),1,ChestAreaEnd_76,,,,
-coin,chest_coin,ChestAreaEnd_78,-118.6116,345.2742,-18.39756,BuyHealthRegenMax+1_C (1 pcs),1,ChestAreaEnd_78,,,,
-coin,chest_coin,ChestFiregun,36101.87,2188.891,2392.39,BuyFireGun_C (1 pcs),1,ChestFiregun,,,,
-coin,chest_coin,ChestRepel,63738.71,-10249.91,502.4502,BuyBeltRepel_C (1 pcs),1,ChestRepel,,,,
-coin,chest_coin,ChestTown,26546.21,-18803.16,1146.876,BP_PickaxeDamage+1_C (1 pcs),1,ChestTown,,,,
-coin,chest_coin,ChestTown2,18264.96,-24453.6,-2699.257,BuyCritChance+5_C (1 pcs),1,ChestTown2,,,,
-coin,chest_coin,ChestTown3,24236.34,-26511.38,-2961.106,Purchase_ForceBeam_C (1 pcs),1,ChestTown3,,,,
-coin,chest_coin,ChestTown4,24221.9,-25829.05,-1952.41,BuyHealthRegenMax+1_C (1 pcs),1,ChestTown4,,,,
-coin,chest_coin,ChestTown_10,11920.29,-26128.77,1218.839,BP_BuyBoomeraxePenetration_C (1 pcs),1,ChestTown_10,,,,
-coin,chest_coin,ChestTown_18,-571.517,-27292.67,1138.336,BP_Purchase_Pickaxe_Range+_C (1 pcs),1,ChestTown_18,,,,
-coin,chest_coin,ChestTown_24,21105.74,-22549,1360.951,BP_BuyBoomeraxeDistance_C (1 pcs),1,ChestTown_24,,,,
-coin,chest_coin,ChestTown_3,17938.27,-26330.03,-2393.072,BuyHealthRegenMax+1_C (1 pcs),1,ChestTown_3,,,,
-coin,chest_coin,ChestTown_40,25499.1,-28513.11,3.42564,BP_BuyBoomeraxePenetration_C (1 pcs),1,ChestTown_40,,,,
-coin,chest_coin,ChestTown_49,32297.9,-15045.5,-1023.706,BuyBelt_DLC2_C (1 pcs),1,ChestTown_49,,,,
-coin,chest_coin,ChestTown_50,27405.31,-24510.29,1503.977,BP_PurchaseHealth+1_C (1 pcs),1,ChestTown_50,,,,
-coin,chest_coin,ChestTown_51,25518.43,-20486.01,2795.595,BuyCritChance+5_C (1 pcs),1,ChestTown_51,,,,
-coin,chest_coin,ChestTown_61,19978.21,-22469.27,1359.762,BP_BuyGunDuration+2s_C (1 pcs),1,ChestTown_61,,,,
-coin,chest_coin,ChestTown_64,23811.3,-30185.48,-201.6134,BP_PickaxeDamage+1_C (1 pcs),1,ChestTown_64,,,,
-coin,chest_coin,ChestTown_66,21850.02,-30968.86,1363.52,BP_BuyGunDuration+2s_C (1 pcs),1,ChestTown_66,,,,
-coin,chest_coin,ChestTown_8,16547,-24160.16,-210.9368,BP_PurchaseHealth+1_C (1 pcs),1,ChestTown_8,,,,
-coin,chest_coin,ChestTown_81,23746.69,-22421.49,-446.8751,BP_PurchaseHealth+1_C (1 pcs),1,ChestTown_81,,,,
-coin,chest_coin,ChestTown_9,22077.91,-31713.19,-190.2006,BuyHealthRegenMax+1_C (1 pcs),1,ChestTown_9,,,,
-coin,chest_coin,ChestTownFiregunonly,15623.94,-28434.47,-134.3101,BP_Purchase_TranslocatorCooldown_C (1 pcs),1,ChestTownFiregunonly,,,,
-coin,chest_coin,ChestTranslocator,56439.58,-56919.76,5936.941,BuyTranslocator_C (1 pcs),1,ChestTranslocator,,,,
-coin,chest_coin,Chest2_2,7954.719,-9338.535,5194.989,BP_PurchaseHealth+1_C (1 pcs),1,Chest2_2,,,,
-coin,chest_coin,Chest_2,9380.043,-16849.13,7830.1,BP_PurchaseHealth+1_C (1 pcs),1,Chest_2,,,,
-coin,chest_coin,Chest2_2,65.74219,2607.797,-5442.541,Coin_C (1 pcs),1,Chest2_2,,,,
-coin,chest_coin,Chest3_9,-9914.023,-629.9375,-4094.029,CoinBig_C (1 pcs),1,Chest3_9,,,,
-coin,chest_coin,Chest2_2,-200.578,-5.858098E-06,0,Coin_C (30 pcs),1,Chest2_2,,,,
-coin,chest_coin,Chest3,200.576,0.0002793954,0,BuyHealthRegenMax+1_C (1 pcs),1,Chest3,,,,
-coin,chest_coin,Chest4_2,-11531.77,8177.906,-4852.044,Coin_C (50 pcs),1,Chest4_2,,,,
-coin,chest_coin,Chest_2,-6982.258,17038.6,3722.65,Coin_C (5 pcs),1,Chest_2,,,,
-coin,chest_coin,SecretLavaArea_Chest01_1,-9811.511,11894.79,2229.783,BP_BuyGunCapacity+3shots_C (1 pcs),1,SecretLavaArea_Chest01_1,,,,
-coin,chest_coin,SecretLavaArea_Chest02,-1251.11,6383.277,3093,BP_BuyBoomeraxePenetration_C (1 pcs),1,SecretLavaArea_Chest02,,,,
-coin,chest_coin,SecretLavaArea_Chest04,-2072.82,10747.87,6632.665,Coin_C (5 pcs),1,SecretLavaArea_Chest04,,,,
-coin,chest_coin,SecretLavaArea_Chest06,-1556.185,18324.97,5080.031,Coin_C (5 pcs),1,SecretLavaArea_Chest06,,,,
-coin,chest_coin,SecretLavaArea_Chest07,-1721.893,1590.699,5343.856,BP_BuyGunDamage+100pct_C (1 pcs),1,SecretLavaArea_Chest07,,,,
-coin,chest_coin,SecretLavaArea_Chest08,-2583.107,1845.184,5075.896,Coin_C (10 pcs),1,SecretLavaArea_Chest08,,,,
-coin,chest_coin,SecretLavaArea_Chest09,-2333.792,-2420.066,4647.196,Coin_C (5 pcs),1,SecretLavaArea_Chest09,,,,
-coin,chest_coin,SecretLavaArea_Chest10,1730.296,12479.96,5293.698,BuyCritChance+5_C (1 pcs),1,SecretLavaArea_Chest10,,,,
-coin,chest_coin,SecretLavaArea_Chest11,8462.848,16380.18,4259.507,Coin_C (5 pcs),1,SecretLavaArea_Chest11,,,,
-coin,chest_coin,SecretLavaArea_Chest12,11829.46,10537.59,3529.46,BP_PurchaseHealth+1_C (1 pcs),1,SecretLavaArea_Chest12,,,,
-coin,chest_coin,SecretLavaArea_Chest12_6,9800.189,12027.02,5546.175,Coin_C (5 pcs),1,SecretLavaArea_Chest12_6,,,,
+type,icon,x,y,z,item,price,comment,image,ytVideo,ytStart,ytEnd,id
+coin,chest_coin,621,-34105,-435.1123,DLC2_Area0:Chest2_2:BuyTranslocator_Fake_C:1,1,DLC2_Area0:Chest2_2,,,,,DLC2_Area0:Chest2_2
+coin,chest_coin,60293.55,-6934.241,4047.035,DLC2_Complete:PipeDetectorChestSpawnLocation::,1,DLC2_Complete:PipeDetectorChestSpawnLocation,,,,,DLC2_Complete:PipeDetectorChestSpawnLocation
+coin,chest_coin,63629.32,-10381.96,595.3312,DLC2_Complete:BP_Building3_ChestDialogue_2::,1,DLC2_Complete:BP_Building3_ChestDialogue_2,,,,,DLC2_Complete:BP_Building3_ChestDialogue_2
+coin,chest_coin,17196.81,-9945.647,3408.572,DLC2_Complete:BP_MonsterChest2_2::,1,DLC2_Complete:BP_MonsterChest2_2,,,,,DLC2_Complete:BP_MonsterChest2_2
+coin,chest_coin,43832.58,-48014.71,251.3514,DLC2_Complete:BP_MonsterChest3_2::,1,DLC2_Complete:BP_MonsterChest3_2,,,,,DLC2_Complete:BP_MonsterChest3_2
+coin,chest_coin,3219,-42638,2383.774,DLC2_Complete:BP_MonsterChest_2::,1,DLC2_Complete:BP_MonsterChest_2,,,,,DLC2_Complete:BP_MonsterChest_2
+coin,chest_coin,-114.8413,290.3628,-18.56413,DLC2_Complete:BuyChestDetectorRadius_2::,1,DLC2_Complete:BuyChestDetectorRadius_2,,,,,DLC2_Complete:BuyChestDetectorRadius_2
+coin,chest_coin,-114.623,290.9221,-18.44171,DLC2_Complete:BuyUpgradeChestNum_2::,1,DLC2_Complete:BuyUpgradeChestNum_2,,,,,DLC2_Complete:BuyUpgradeChestNum_2
+coin,chest_coin,49862.85,-61867.54,3331.969,DLC2_Complete:Chest10_11:Coin_C:8,1,DLC2_Complete:Chest10_11,,,,,DLC2_Complete:Chest10_11
+coin,chest_coin,-59176.29,722.6304,1250.286,DLC2_Complete:Chest11_2:BuyJumpIncrease_C:1,1,DLC2_Complete:Chest11_2,,,,,DLC2_Complete:Chest11_2
+coin,chest_coin,43071.55,-47385.15,-601.6109,DLC2_Complete:Chest12_17:Coin_C:3,1,DLC2_Complete:Chest12_17,,,,,DLC2_Complete:Chest12_17
+coin,chest_coin,39951.82,-51068.89,-500.0531,DLC2_Complete:Chest13_20:Coin_C:3,1,DLC2_Complete:Chest13_20,,,,,DLC2_Complete:Chest13_20
+coin,chest_coin,-35361.02,-36825.92,23564.83,DLC2_Complete:Chest14_2:BuyJumpIncrease_C:1,1,DLC2_Complete:Chest14_2,,,,,DLC2_Complete:Chest14_2
+coin,chest_coin,-48437.58,-21617.5,16123.68,DLC2_Complete:Chest15_2:Coin_C:1,1,DLC2_Complete:Chest15_2,,,,,DLC2_Complete:Chest15_2
+coin,chest_coin,6018.638,-47689.83,1815.21,DLC2_Complete:Chest16:BuyElectricGun_C:1,1,DLC2_Complete:Chest16,,,,,DLC2_Complete:Chest16
+coin,chest_coin,2748.828,-46094.84,3283.895,DLC2_Complete:Chest17:Coin_C:23,1,DLC2_Complete:Chest17,,,,,DLC2_Complete:Chest17
+coin,chest_coin,18744.62,-11487.48,7127.94,DLC2_Complete:Chest2_2:Coin_C:5,1,DLC2_Complete:Chest2_2,,,,,DLC2_Complete:Chest2_2
+coin,chest_coin,41127,-11486,921,DLC2_Complete:Chest3_2:BP_BuyBoomerAxe_C:1,1,DLC2_Complete:Chest3_2,,,,,DLC2_Complete:Chest3_2
+coin,chest_coin,-4894.136,-46992.61,1779.621,DLC2_Complete:Chest4_2:Coin_C:10,1,DLC2_Complete:Chest4_2,,,,,DLC2_Complete:Chest4_2
+coin,chest_coin,50108,-60852,2764.718,DLC2_Complete:Chest5_2:BP_DoubleHealthLoot_C:1,1,DLC2_Complete:Chest5_2,,,,,DLC2_Complete:Chest5_2
+coin,chest_coin,48399.79,-61681.46,906.472,DLC2_Complete:Chest6_5:Coin_C:10,1,DLC2_Complete:Chest6_5,,,,,DLC2_Complete:Chest6_5
+coin,chest_coin,34509,-47940,-472,DLC2_Complete:Chest7_8:Coin_C:10,1,DLC2_Complete:Chest7_8,,,,,DLC2_Complete:Chest7_8
+coin,chest_coin,-49225.31,-29278.21,17556.38,DLC2_Complete:Chest8_5:CoinBig_C:1,1,DLC2_Complete:Chest8_5,,,,,DLC2_Complete:Chest8_5
+coin,chest_coin,44491.25,-46401.67,2059.973,DLC2_Complete:Chest9_8:Coin_C:8,1,DLC2_Complete:Chest9_8,,,,,DLC2_Complete:Chest9_8
+coin,chest_coin,16760.28,-33326.79,1350.583,DLC2_Complete:Chest_6:Coin_C:5,1,DLC2_Complete:Chest_6,,,,,DLC2_Complete:Chest_6
+coin,chest_coin,-661.9174,-43441.16,1770,DLC2_Complete:Chest_GoldBeam:BuyForceBeamGold_C:1,1,DLC2_Complete:Chest_GoldBeam,,,,,DLC2_Complete:Chest_GoldBeam
+coin,chest_coin,27781.27,11080.61,3033.937,DLC2_Complete:ChestArea1:Coin_C:3,1,DLC2_Complete:ChestArea1,,,,,DLC2_Complete:ChestArea1
+coin,chest_coin,-1232.244,-51696.42,2670.432,DLC2_Complete:ChestArea11:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea11,,,,,DLC2_Complete:ChestArea11
+coin,chest_coin,5240.756,-49982.95,1837.661,DLC2_Complete:ChestArea12:Coin_C:1,1,DLC2_Complete:ChestArea12,,,,,DLC2_Complete:ChestArea12
+coin,chest_coin,2016.052,-47905.05,1764,DLC2_Complete:ChestArea13:Coin_C:20,1,DLC2_Complete:ChestArea13,,,,,DLC2_Complete:ChestArea13
+coin,chest_coin,5355.951,-51268.65,2664.699,DLC2_Complete:ChestArea14:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea14,,,,,DLC2_Complete:ChestArea14
+coin,chest_coin,-2034.762,-46645,3265.882,DLC2_Complete:ChestArea15:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea15,,,,,DLC2_Complete:ChestArea15
+coin,chest_coin,18115.78,20434.73,4890.31,DLC2_Complete:ChestArea1_0:Coin_C:10,1,DLC2_Complete:ChestArea1_0,,,,,DLC2_Complete:ChestArea1_0
+coin,chest_coin,24559.96,16827.13,5468.385,DLC2_Complete:ChestArea1_1:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea1_1,,,,,DLC2_Complete:ChestArea1_1
+coin,chest_coin,21157.37,7001.55,3065.948,DLC2_Complete:ChestArea1_10:Coin_C:15,1,DLC2_Complete:ChestArea1_10,,,,,DLC2_Complete:ChestArea1_10
+coin,chest_coin,10586.74,11461.75,3223.094,DLC2_Complete:ChestArea1_12:Coin_C:3,1,DLC2_Complete:ChestArea1_12,,,,,DLC2_Complete:ChestArea1_12
+coin,chest_coin,19119.39,4689.746,3106.063,DLC2_Complete:ChestArea1_13:Coin_C:20,1,DLC2_Complete:ChestArea1_13,,,,,DLC2_Complete:ChestArea1_13
+coin,chest_coin,29876.7,8049.026,3510.515,DLC2_Complete:ChestArea1_14:Coin_C:10,1,DLC2_Complete:ChestArea1_14,,,,,DLC2_Complete:ChestArea1_14
+coin,chest_coin,13047.48,11365.66,2765.64,DLC2_Complete:ChestArea1_15:Coin_C:2,1,DLC2_Complete:ChestArea1_15,,,,,DLC2_Complete:ChestArea1_15
+coin,chest_coin,25710.93,6531.553,3107.374,DLC2_Complete:ChestArea1_3:Coin_C:4,1,DLC2_Complete:ChestArea1_3,,,,,DLC2_Complete:ChestArea1_3
+coin,chest_coin,21921.69,10109.11,3981.875,DLC2_Complete:ChestArea1_4:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea1_4,,,,,DLC2_Complete:ChestArea1_4
+coin,chest_coin,26657.37,8250.876,5473.938,DLC2_Complete:ChestArea1_46:Coin_C:15,1,DLC2_Complete:ChestArea1_46,,,,,DLC2_Complete:ChestArea1_46
+coin,chest_coin,58129.49,-19654.04,547.0891,DLC2_Complete:ChestArea1_5:BuyCritChance+5_C:1,1,DLC2_Complete:ChestArea1_5,,,,,DLC2_Complete:ChestArea1_5
+coin,chest_coin,17338.4,-6965.655,6099.735,DLC2_Complete:ChestArea1_52:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea1_52,,,,,DLC2_Complete:ChestArea1_52
+coin,chest_coin,71378.34,-10532.79,3988.557,DLC2_Complete:ChestArea1_6:BuyCritChance+5_C:1,1,DLC2_Complete:ChestArea1_6,,,,,DLC2_Complete:ChestArea1_6
+coin,chest_coin,35667.55,9156.419,6210.434,DLC2_Complete:ChestArea1_63:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea1_63,,,,,DLC2_Complete:ChestArea1_63
+coin,chest_coin,33715.51,13468.85,3396.803,DLC2_Complete:ChestArea1_69:BP_BuyBoomeraxeThrowSpeed_C:1,1,DLC2_Complete:ChestArea1_69,,,,,DLC2_Complete:ChestArea1_69
+coin,chest_coin,19971.49,19796.31,3093.311,DLC2_Complete:ChestArea1_7:Coin_C:3,1,DLC2_Complete:ChestArea1_7,,,,,DLC2_Complete:ChestArea1_7
+coin,chest_coin,27564.93,11198.03,3825.785,DLC2_Complete:ChestArea1_79:Coin_C:5,1,DLC2_Complete:ChestArea1_79,,,,,DLC2_Complete:ChestArea1_79
+coin,chest_coin,23262.18,9784.935,4240.39,DLC2_Complete:ChestArea1_8:Coin_C:2,1,DLC2_Complete:ChestArea1_8,,,,,DLC2_Complete:ChestArea1_8
+coin,chest_coin,63917.7,-11787.98,1552.472,DLC2_Complete:ChestArea2:Coin_C:10,1,DLC2_Complete:ChestArea2,,,,,DLC2_Complete:ChestArea2
+coin,chest_coin,56225.04,-10059.07,2077.473,DLC2_Complete:ChestArea2_1:Coin_C:10,1,DLC2_Complete:ChestArea2_1,,,,,DLC2_Complete:ChestArea2_1
+coin,chest_coin,49992.65,-25915.73,2723.984,DLC2_Complete:ChestArea2_11:BP_DoubleHealthLoot_C:1,1,DLC2_Complete:ChestArea2_11,,,,,DLC2_Complete:ChestArea2_11
+coin,chest_coin,64329.22,-13131.23,439.3311,DLC2_Complete:ChestArea2_16:Coin_C:9,1,DLC2_Complete:ChestArea2_16,,,,,DLC2_Complete:ChestArea2_16
+coin,chest_coin,65200.04,-12285.34,1788.437,DLC2_Complete:ChestArea2_17:BuyHealthRegenMax+1_C:1,1,DLC2_Complete:ChestArea2_17,,,,,DLC2_Complete:ChestArea2_17
+coin,chest_coin,56670.52,-13120.73,1316.859,DLC2_Complete:ChestArea2_2:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea2_2,,,,,DLC2_Complete:ChestArea2_2
+coin,chest_coin,65350.03,-5262.115,8355.688,DLC2_Complete:ChestArea2_3:BuyHealthRegenSpeed_C:1,1,DLC2_Complete:ChestArea2_3,,,,,DLC2_Complete:ChestArea2_3
+coin,chest_coin,44655.15,-20489.51,431.5622,DLC2_Complete:ChestArea2_39:BP_BuyGunCapacity+3shots_C:1,1,DLC2_Complete:ChestArea2_39,,,,,DLC2_Complete:ChestArea2_39
+coin,chest_coin,60854.46,-13330.76,480.9561,DLC2_Complete:ChestArea2_4:BP_BuyGunDuration+2s_C:1,1,DLC2_Complete:ChestArea2_4,,,,,DLC2_Complete:ChestArea2_4
+coin,chest_coin,61325.91,-16146.84,431.8685,DLC2_Complete:ChestArea2_5:Coin_C:10,1,DLC2_Complete:ChestArea2_5,,,,,DLC2_Complete:ChestArea2_5
+coin,chest_coin,58534.52,-8821.514,533.6049,DLC2_Complete:ChestArea2_57:Coin_C:10,1,DLC2_Complete:ChestArea2_57,,,,,DLC2_Complete:ChestArea2_57
+coin,chest_coin,54248,-11552,472.565,DLC2_Complete:ChestArea2_58:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea2_58,,,,,DLC2_Complete:ChestArea2_58
+coin,chest_coin,48902,-25058,2714.283,DLC2_Complete:ChestArea2_59:Coin_C:30,1,DLC2_Complete:ChestArea2_59,,,,,DLC2_Complete:ChestArea2_59
+coin,chest_coin,59699.77,-14887.92,3460.224,DLC2_Complete:ChestArea2_6:Coin_C:20,1,DLC2_Complete:ChestArea2_6,,,,,DLC2_Complete:ChestArea2_6
+coin,chest_coin,60078.96,-9618.15,3293.176,DLC2_Complete:ChestArea2_60:BP_Purchase_FasterPickaxe_C:1,1,DLC2_Complete:ChestArea2_60,,,,,DLC2_Complete:ChestArea2_60
+coin,chest_coin,59550.2,-5595.012,2963.66,DLC2_Complete:ChestArea2_65:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea2_65,,,,,DLC2_Complete:ChestArea2_65
+coin,chest_coin,36906.54,-23410.93,5165.915,DLC2_Complete:ChestArea2_67:BP_BuyBoomeraxeThrowSpeed_C:1,1,DLC2_Complete:ChestArea2_67,,,,,DLC2_Complete:ChestArea2_67
+coin,chest_coin,35279.27,-18218.37,4323.585,DLC2_Complete:ChestArea2_68:Coin_C:10,1,DLC2_Complete:ChestArea2_68,,,,,DLC2_Complete:ChestArea2_68
+coin,chest_coin,60790.24,-9572.064,432.8234,DLC2_Complete:ChestArea2_7:BuyHealthRegenMax+1_C:1,1,DLC2_Complete:ChestArea2_7,,,,,DLC2_Complete:ChestArea2_7
+coin,chest_coin,65765,-9639,544.5812,DLC2_Complete:ChestArea2_80:BuyCritChance+5_C:1,1,DLC2_Complete:ChestArea2_80,,,,,DLC2_Complete:ChestArea2_80
+coin,chest_coin,2697,-39650,1755.001,DLC2_Complete:ChestArea3:BP_BuyBoomeraxePenetration_C:1,1,DLC2_Complete:ChestArea3,,,,,DLC2_Complete:ChestArea3
+coin,chest_coin,8566.479,-35616.77,1769.22,DLC2_Complete:ChestArea3_21:BuyHealthRegenMax+1_C:1,1,DLC2_Complete:ChestArea3_21,,,,,DLC2_Complete:ChestArea3_21
+coin,chest_coin,-2190.288,-36296.91,3521.27,DLC2_Complete:ChestArea3_22:BuyHealthRegenSpeed_C:1,1,DLC2_Complete:ChestArea3_22,,,,,DLC2_Complete:ChestArea3_22
+coin,chest_coin,-200.1284,-36520.05,1754.072,DLC2_Complete:ChestArea3_23:BP_BuyBoomeraxeDistance_C:1,1,DLC2_Complete:ChestArea3_23,,,,,DLC2_Complete:ChestArea3_23
+coin,chest_coin,-2481.362,-37831.97,1755.001,DLC2_Complete:ChestArea3_25:BuyCritChance+5_C:1,1,DLC2_Complete:ChestArea3_25,,,,,DLC2_Complete:ChestArea3_25
+coin,chest_coin,-147.4906,-40256.01,1777,DLC2_Complete:ChestArea3_26:BP_BuyGunCapacity+3shots_C:1,1,DLC2_Complete:ChestArea3_26,,,,,DLC2_Complete:ChestArea3_26
+coin,chest_coin,-1181.801,-36611.18,4476.29,DLC2_Complete:ChestArea3_27:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea3_27,,,,,DLC2_Complete:ChestArea3_27
+coin,chest_coin,7113.792,-36158.01,1854.066,DLC2_Complete:ChestArea3_44:Coin_C:20,1,DLC2_Complete:ChestArea3_44,,,,,DLC2_Complete:ChestArea3_44
+coin,chest_coin,-1796.449,-49097.5,5183.848,DLC2_Complete:ChestArea3_53:Coin_C:15,1,DLC2_Complete:ChestArea3_53,,,,,DLC2_Complete:ChestArea3_53
+coin,chest_coin,8284.14,-39022.75,1755.001,DLC2_Complete:ChestArea3_62:BP_BuyBoomeraxeThrowSpeed_C:1,1,DLC2_Complete:ChestArea3_62,,,,,DLC2_Complete:ChestArea3_62
+coin,chest_coin,7526.58,-39912.54,1736,DLC2_Complete:ChestArea3_70:BP_BuyGunDamage+100pct_C:1,1,DLC2_Complete:ChestArea3_70,,,,,DLC2_Complete:ChestArea3_70
+coin,chest_coin,42204.97,-63987.88,3214.126,DLC2_Complete:ChestArea4:BuyQuintupleJump_C:1,1,DLC2_Complete:ChestArea4,,,,,DLC2_Complete:ChestArea4
+coin,chest_coin,31313.29,-32578.47,3236.865,DLC2_Complete:ChestArea4_29:BP_BuyGunRechargeTime-50pct_C:1,1,DLC2_Complete:ChestArea4_29,,,,,DLC2_Complete:ChestArea4_29
+coin,chest_coin,38427.82,-47550.02,2214.948,DLC2_Complete:ChestArea4_32:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea4_32,,,,,DLC2_Complete:ChestArea4_32
+coin,chest_coin,38265.48,-47416.8,2483.512,DLC2_Complete:ChestArea4_33:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea4_33,,,,,DLC2_Complete:ChestArea4_33
+coin,chest_coin,46173.52,-47735.12,1991.394,DLC2_Complete:ChestArea4_34:Coin_C:10,1,DLC2_Complete:ChestArea4_34,,,,,DLC2_Complete:ChestArea4_34
+coin,chest_coin,51443.8,-42255.52,1906.208,DLC2_Complete:ChestArea4_35:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea4_35,,,,,DLC2_Complete:ChestArea4_35
+coin,chest_coin,39644.3,-46289.61,2203.816,DLC2_Complete:ChestArea4_36:Purchase_ForceCube_C:1,1,DLC2_Complete:ChestArea4_36,,,,,DLC2_Complete:ChestArea4_36
+coin,chest_coin,50307.38,-46995.42,1923.34,DLC2_Complete:ChestArea4_37:Coin_C:20,1,DLC2_Complete:ChestArea4_37,,,,,DLC2_Complete:ChestArea4_37
+coin,chest_coin,47519.66,-46098.86,1296.394,DLC2_Complete:ChestArea4_38:BuyCritChance+5_C:1,1,DLC2_Complete:ChestArea4_38,,,,,DLC2_Complete:ChestArea4_38
+coin,chest_coin,39080.25,-41082.29,3784.969,DLC2_Complete:ChestArea4_41:Coin_C:15,1,DLC2_Complete:ChestArea4_41,,,,,DLC2_Complete:ChestArea4_41
+coin,chest_coin,48658.9,-57554.53,485.3988,DLC2_Complete:ChestArea4_45:BP_BuyGunCapacity+3shots_C:1,1,DLC2_Complete:ChestArea4_45,,,,,DLC2_Complete:ChestArea4_45
+coin,chest_coin,55088.73,-64008.45,1660.007,DLC2_Complete:ChestArea4_48:BP_BuyGunRechargeTime-50pct_C:1,1,DLC2_Complete:ChestArea4_48,,,,,DLC2_Complete:ChestArea4_48
+coin,chest_coin,58703.47,-56443.56,2905.642,DLC2_Complete:ChestArea4_54:BP_BuyGunCapacity+3shots_C:1,1,DLC2_Complete:ChestArea4_54,,,,,DLC2_Complete:ChestArea4_54
+coin,chest_coin,55114.61,-63962.81,4412.156,DLC2_Complete:ChestArea4_55:BP_BuyBoomeraxeDistance_C:1,1,DLC2_Complete:ChestArea4_55,,,,,DLC2_Complete:ChestArea4_55
+coin,chest_coin,46677.85,-52545.31,423.4111,DLC2_Complete:ChestArea4_56:Coin_C:15,1,DLC2_Complete:ChestArea4_56,,,,,DLC2_Complete:ChestArea4_56
+coin,chest_coin,56237.21,-50250.6,464.7966,DLC2_Complete:ChestArea4_71:BP_BuyBoomeraxeThrowSpeed_C:1,1,DLC2_Complete:ChestArea4_71,,,,,DLC2_Complete:ChestArea4_71
+coin,chest_coin,56384.89,-57680.38,3517.944,DLC2_Complete:ChestArea4_72:BuyHealthRegenMax+1_C:1,1,DLC2_Complete:ChestArea4_72,,,,,DLC2_Complete:ChestArea4_72
+coin,chest_coin,65468.32,-55833.54,689.5183,DLC2_Complete:ChestArea4Firegunonly:BP_BuyFireGunAutoRecharge_C:1,1,DLC2_Complete:ChestArea4Firegunonly,,,,,DLC2_Complete:ChestArea4Firegunonly
+coin,chest_coin,55007.98,-49058.27,2431.684,DLC2_Complete:ChestArea5:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestArea5,,,,,DLC2_Complete:ChestArea5
+coin,chest_coin,-59.18332,367.163,-14.77962,DLC2_Complete:ChestAreaEnd2:BuyChestDetector_C:1,1,DLC2_Complete:ChestAreaEnd2,,,,,DLC2_Complete:ChestAreaEnd2
+coin,chest_coin,-60.2886,378.527,-19.9803,DLC2_Complete:ChestAreaEnd_73:BP_BuyGunCapacity+3shots_C:1,1,DLC2_Complete:ChestAreaEnd_73,,,,,DLC2_Complete:ChestAreaEnd_73
+coin,chest_coin,-37.0434,366.8768,-22.45426,DLC2_Complete:ChestAreaEnd_74:BP_BuyBoomeraxeDistance_C:1,1,DLC2_Complete:ChestAreaEnd_74,,,,,DLC2_Complete:ChestAreaEnd_74
+coin,chest_coin,-65.29893,375.4448,-6.402412,DLC2_Complete:ChestAreaEnd_75:Coin_C:20,1,DLC2_Complete:ChestAreaEnd_75,,,,,DLC2_Complete:ChestAreaEnd_75
+coin,chest_coin,-79.03856,392.5527,-15.05961,DLC2_Complete:ChestAreaEnd_76:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestAreaEnd_76,,,,,DLC2_Complete:ChestAreaEnd_76
+coin,chest_coin,-118.6116,345.2742,-18.39756,DLC2_Complete:ChestAreaEnd_78:BuyHealthRegenMax+1_C:1,1,DLC2_Complete:ChestAreaEnd_78,,,,,DLC2_Complete:ChestAreaEnd_78
+coin,chest_coin,36101.87,2188.891,2392.39,DLC2_Complete:ChestFiregun:BuyFireGun_C:1,1,DLC2_Complete:ChestFiregun,,,,,DLC2_Complete:ChestFiregun
+coin,chest_coin,63738.71,-10249.91,502.4502,DLC2_Complete:ChestRepel:BuyBeltRepel_C:1,1,DLC2_Complete:ChestRepel,,,,,DLC2_Complete:ChestRepel
+coin,chest_coin,26546.21,-18803.16,1146.876,DLC2_Complete:ChestTown:BP_PickaxeDamage+1_C:1,1,DLC2_Complete:ChestTown,,,,,DLC2_Complete:ChestTown
+coin,chest_coin,18264.96,-24453.6,-2699.257,DLC2_Complete:ChestTown2:BuyCritChance+5_C:1,1,DLC2_Complete:ChestTown2,,,,,DLC2_Complete:ChestTown2
+coin,chest_coin,24236.34,-26511.38,-2961.106,DLC2_Complete:ChestTown3:Purchase_ForceBeam_C:1,1,DLC2_Complete:ChestTown3,,,,,DLC2_Complete:ChestTown3
+coin,chest_coin,24221.9,-25829.05,-1952.41,DLC2_Complete:ChestTown4:BuyHealthRegenMax+1_C:1,1,DLC2_Complete:ChestTown4,,,,,DLC2_Complete:ChestTown4
+coin,chest_coin,11920.29,-26128.77,1218.839,DLC2_Complete:ChestTown_10:BP_BuyBoomeraxePenetration_C:1,1,DLC2_Complete:ChestTown_10,,,,,DLC2_Complete:ChestTown_10
+coin,chest_coin,-571.517,-27292.67,1138.336,DLC2_Complete:ChestTown_18:BP_Purchase_Pickaxe_Range+_C:1,1,DLC2_Complete:ChestTown_18,,,,,DLC2_Complete:ChestTown_18
+coin,chest_coin,21105.74,-22549,1360.951,DLC2_Complete:ChestTown_24:BP_BuyBoomeraxeDistance_C:1,1,DLC2_Complete:ChestTown_24,,,,,DLC2_Complete:ChestTown_24
+coin,chest_coin,17938.27,-26330.03,-2393.072,DLC2_Complete:ChestTown_3:BuyHealthRegenMax+1_C:1,1,DLC2_Complete:ChestTown_3,,,,,DLC2_Complete:ChestTown_3
+coin,chest_coin,25499.1,-28513.11,3.42564,DLC2_Complete:ChestTown_40:BP_BuyBoomeraxePenetration_C:1,1,DLC2_Complete:ChestTown_40,,,,,DLC2_Complete:ChestTown_40
+coin,chest_coin,32297.9,-15045.5,-1023.706,DLC2_Complete:ChestTown_49:BuyBelt_DLC2_C:1,1,DLC2_Complete:ChestTown_49,,,,,DLC2_Complete:ChestTown_49
+coin,chest_coin,27405.31,-24510.29,1503.977,DLC2_Complete:ChestTown_50:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestTown_50,,,,,DLC2_Complete:ChestTown_50
+coin,chest_coin,25518.43,-20486.01,2795.595,DLC2_Complete:ChestTown_51:BuyCritChance+5_C:1,1,DLC2_Complete:ChestTown_51,,,,,DLC2_Complete:ChestTown_51
+coin,chest_coin,19978.21,-22469.27,1359.762,DLC2_Complete:ChestTown_61:BP_BuyGunDuration+2s_C:1,1,DLC2_Complete:ChestTown_61,,,,,DLC2_Complete:ChestTown_61
+coin,chest_coin,23811.3,-30185.48,-201.6134,DLC2_Complete:ChestTown_64:BP_PickaxeDamage+1_C:1,1,DLC2_Complete:ChestTown_64,,,,,DLC2_Complete:ChestTown_64
+coin,chest_coin,21850.02,-30968.86,1363.52,DLC2_Complete:ChestTown_66:BP_BuyGunDuration+2s_C:1,1,DLC2_Complete:ChestTown_66,,,,,DLC2_Complete:ChestTown_66
+coin,chest_coin,16547,-24160.16,-210.9368,DLC2_Complete:ChestTown_8:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestTown_8,,,,,DLC2_Complete:ChestTown_8
+coin,chest_coin,23746.69,-22421.49,-446.8751,DLC2_Complete:ChestTown_81:BP_PurchaseHealth+1_C:1,1,DLC2_Complete:ChestTown_81,,,,,DLC2_Complete:ChestTown_81
+coin,chest_coin,22077.91,-31713.19,-190.2006,DLC2_Complete:ChestTown_9:BuyHealthRegenMax+1_C:1,1,DLC2_Complete:ChestTown_9,,,,,DLC2_Complete:ChestTown_9
+coin,chest_coin,15623.94,-28434.47,-134.3101,DLC2_Complete:ChestTownFiregunonly:BP_Purchase_TranslocatorCooldown_C:1,1,DLC2_Complete:ChestTownFiregunonly,,,,,DLC2_Complete:ChestTownFiregunonly
+coin,chest_coin,56439.58,-56919.76,5936.941,DLC2_Complete:ChestTranslocator:BuyTranslocator_C:1,1,DLC2_Complete:ChestTranslocator,,,,,DLC2_Complete:ChestTranslocator
+coin,chest_coin,7954.719,-9338.535,5194.989,DLC2_FinalBoss:Chest2_2:BP_PurchaseHealth+1_C:1,1,DLC2_FinalBoss:Chest2_2,,,,,DLC2_FinalBoss:Chest2_2
+coin,chest_coin,9380.043,-16849.13,7830.1,DLC2_FinalBoss:Chest_2:BP_PurchaseHealth+1_C:1,1,DLC2_FinalBoss:Chest_2,,,,,DLC2_FinalBoss:Chest_2
+coin,chest_coin,65.74219,2607.797,-5442.541,DLC2_PostRainbow:Chest2_2:Coin_C:1,1,DLC2_PostRainbow:Chest2_2,,,,,DLC2_PostRainbow:Chest2_2
+coin,chest_coin,-9914.023,-629.9375,-4094.029,DLC2_PostRainbow:Chest3_9:CoinBig_C:1,1,DLC2_PostRainbow:Chest3_9,,,,,DLC2_PostRainbow:Chest3_9
+coin,chest_coin,-200.578,-5.858098E-06,0,DLC2_SecretLavaArea:Chest2_2:Coin_C:30,1,DLC2_SecretLavaArea:Chest2_2,,,,,DLC2_SecretLavaArea:Chest2_2
+coin,chest_coin,200.576,0.0002793954,0,DLC2_SecretLavaArea:Chest3:BuyHealthRegenMax+1_C:1,1,DLC2_SecretLavaArea:Chest3,,,,,DLC2_SecretLavaArea:Chest3
+coin,chest_coin,-11531.77,8177.906,-4852.044,DLC2_SecretLavaArea:Chest4_2:Coin_C:50,1,DLC2_SecretLavaArea:Chest4_2,,,,,DLC2_SecretLavaArea:Chest4_2
+coin,chest_coin,-6982.258,17038.6,3722.65,DLC2_SecretLavaArea:Chest_2:Coin_C:5,1,DLC2_SecretLavaArea:Chest_2,,,,,DLC2_SecretLavaArea:Chest_2
+coin,chest_coin,-9811.511,11894.79,2229.783,DLC2_SecretLavaArea:SecretLavaArea_Chest01_1:BP_BuyGunCapacity+3shots_C:1,1,DLC2_SecretLavaArea:SecretLavaArea_Chest01_1,,,,,DLC2_SecretLavaArea:SecretLavaArea_Chest01_1
+coin,chest_coin,-1251.11,6383.277,3093,DLC2_SecretLavaArea:SecretLavaArea_Chest02:BP_BuyBoomeraxePenetration_C:1,1,DLC2_SecretLavaArea:SecretLavaArea_Chest02,,,,,DLC2_SecretLavaArea:SecretLavaArea_Chest02
+coin,chest_coin,-2072.82,10747.87,6632.665,DLC2_SecretLavaArea:SecretLavaArea_Chest04:Coin_C:5,1,DLC2_SecretLavaArea:SecretLavaArea_Chest04,,,,,DLC2_SecretLavaArea:SecretLavaArea_Chest04
+coin,chest_coin,-1556.185,18324.97,5080.031,DLC2_SecretLavaArea:SecretLavaArea_Chest06:Coin_C:5,1,DLC2_SecretLavaArea:SecretLavaArea_Chest06,,,,,DLC2_SecretLavaArea:SecretLavaArea_Chest06
+coin,chest_coin,-1721.893,1590.699,5343.856,DLC2_SecretLavaArea:SecretLavaArea_Chest07:BP_BuyGunDamage+100pct_C:1,1,DLC2_SecretLavaArea:SecretLavaArea_Chest07,,,,,DLC2_SecretLavaArea:SecretLavaArea_Chest07
+coin,chest_coin,-2583.107,1845.184,5075.896,DLC2_SecretLavaArea:SecretLavaArea_Chest08:Coin_C:10,1,DLC2_SecretLavaArea:SecretLavaArea_Chest08,,,,,DLC2_SecretLavaArea:SecretLavaArea_Chest08
+coin,chest_coin,-2333.792,-2420.066,4647.196,DLC2_SecretLavaArea:SecretLavaArea_Chest09:Coin_C:5,1,DLC2_SecretLavaArea:SecretLavaArea_Chest09,,,,,DLC2_SecretLavaArea:SecretLavaArea_Chest09
+coin,chest_coin,1730.296,12479.96,5293.698,DLC2_SecretLavaArea:SecretLavaArea_Chest10:BuyCritChance+5_C:1,1,DLC2_SecretLavaArea:SecretLavaArea_Chest10,,,,,DLC2_SecretLavaArea:SecretLavaArea_Chest10
+coin,chest_coin,8462.848,16380.18,4259.507,DLC2_SecretLavaArea:SecretLavaArea_Chest11:Coin_C:5,1,DLC2_SecretLavaArea:SecretLavaArea_Chest11,,,,,DLC2_SecretLavaArea:SecretLavaArea_Chest11
+coin,chest_coin,11829.46,10537.59,3529.46,DLC2_SecretLavaArea:SecretLavaArea_Chest12:BP_PurchaseHealth+1_C:1,1,DLC2_SecretLavaArea:SecretLavaArea_Chest12,,,,,DLC2_SecretLavaArea:SecretLavaArea_Chest12
+coin,chest_coin,9800.189,12027.02,5546.175,DLC2_SecretLavaArea:SecretLavaArea_Chest12_6:Coin_C:5,1,DLC2_SecretLavaArea:SecretLavaArea_Chest12_6,,,,,DLC2_SecretLavaArea:SecretLavaArea_Chest12_6

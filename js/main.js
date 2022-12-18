@@ -95,8 +95,11 @@ window.loadSaveFile = function () {
     for( i = 0; i < theProps.length; i++ ){
       toProcess = loadedSave.Properties.find(function (x) { return x.name==theProps[i] }).value.value;
       for( x = 0; x < toProcess.length; x++ ){
-        el = toProcess[x].split(".").pop();
-        if ( el != "None" ){ markItemFound(el) };
+        let el = toProcess[x].split(".").pop();
+        // "/Game/FirstPersonBP/Maps/DLC2_SecretLavaArea.DLC2_SecretLavaArea:PersistentLevel.SecretLavaArea_Chest12"
+        let area = toProcess[x].split("/").pop().split('.')[0];
+        let id = area + ':' + el;
+        if (id != "None" ){ markItemFound(id) };
       }
     }
     ready = true;
